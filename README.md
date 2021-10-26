@@ -1,5 +1,4 @@
 halo iam ghosky 
-follow me :
-https://instagram.com/iamghosky_
-contact me :
-wa.me/6289653381067
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
